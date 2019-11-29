@@ -1,0 +1,231 @@
+html, body{
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+html{
+  height: 100%;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif !important;
+  min-height: 100%;
+  background-color: #2D132C;
+  overflow: auto;
+}
+
+
+body::-webkit-scrollbar {
+  width: 5.5px;
+  background-color: #ee4540;
+  border-radius: 25px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #801336;
+  border-radius: 1.5px;
+
+} 
+
+#container {
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding-top: 20px;
+  width: 80%;
+  background-color: #c72c41;
+  min-height: 100vh;
+}
+
+.from {
+  max-width: 816px;
+  width: 90%;
+  margin: 0 auto 50px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.from input {
+  width: 100%;
+  max-width: 400px;
+}
+
+.preview-list {
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0 20px;
+}
+
+.delete-button {
+  fill: rgb(250, 250, 250);
+  position: absolute;
+  filter: drop-shadow( 3px 3px 2px rgba(0, 0, 0, .7));
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  cursor: pointer;
+  background: rgb(104, 102, 102);
+  top: 5px;
+  left: 5px;
+  
+}
+
+.delete-button:hover {
+  background: rgb(255, 0, 0);
+  filter: drop-shadow( 4px 4px 3px rgba(0, 0, 0, .7));
+}
+
+
+.preview-container {
+  border: 1px solid black;
+  position: relative;
+  background-color: rgb(194, 194, 194);
+  width: 250px;
+  height: 327px;
+  margin: 0 auto 20px auto;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.preview-container a {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: black;
+  height: 100%;
+  width: 100%;
+}
+
+.preview-image {
+  width: 100%;
+  min-height: 60%;
+  background-color: rgb(245, 245, 245);
+
+}
+
+.preview-info {
+  margin: 0;
+  background-color: aliceblue;
+  width: 100%;
+  min-height: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+}
+
+.preview-title {
+  height: 14px;
+  margin: 0;
+  padding: 7px;
+  background-color: rgba(195, 195, 201, 0.623); 
+  border-bottom: 2px solid black;
+  border-width: thin;
+  font-size: .9rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.preview-description {
+  color: #00000091;
+  display: block;
+  height: 100%;
+  max-height: 84px;
+  padding: 7px;
+  padding-bottom: 2px;
+  font-size: .8rem;
+  overflow: hidden;
+}
+
+.preview-url {
+  display: inline-block;
+  color: #f7f7f7;
+  background: #801336;
+  text-align: center;
+  padding: 3px 0;
+  height: 15px; 
+  font-size: .8rem;
+}
+
+
+@keyframes placeHolderShimmer{
+  0%{
+      background-position: -468px 0
+  }
+  100%{
+      background-position: 468px 0
+  }
+}
+
+.loading {
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeHolderShimmer;
+  animation-timing-function: linear;
+  background: linear-gradient(to right, #eeeeee 8%, #dddddd 18%, #eeeeee 33%);
+  background-size: 800px 104px;
+}
+
+@supports (display: flex) {
+  @media screen and (max-width: 600px){
+    #container{
+      width: 100%;
+      margin: 0;
+    }
+
+    .preview-list{
+      width: 100%;
+      padding: 0 10px;
+      flex-direction: column;
+    }
+
+    .preview-image {
+      width: 120px;
+      min-height: 50px;
+      background-color: rgb(245, 245, 245);
+    
+    }
+
+    .preview-container {
+      border: 1px solid black;
+      position: relative;
+      background-color: rgb(194, 194, 194);
+      width: 100%;
+      height: 100px;
+      margin: 0 0 10px 0;
+      border-radius: 10px;
+      overflow: hidden;
+    }
+    
+    .preview-container a {
+      display: flex;
+      flex-direction: row;
+      text-decoration: none;
+      color: black;
+      height: 100%;
+      width: 100%;
+    }
+
+    .preview-info {
+      width: 100%;
+      height: 100%;
+      border-left: 2px solid black;
+    }
+
+    .preview-title {
+      height: 18px
+    }
+
+    .preview-description {
+      height: 64px;
+      padding-bottom: 2px;
+    }
+  }
+}

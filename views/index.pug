@@ -1,0 +1,17 @@
+extends layout
+
+block content
+  div.from
+    input(type="url" placeHolder="Bookmark URL....")
+    button(type="submit") Add
+  ul.preview-list
+    each val in data
+      li(class="preview-container" data-id=`${val.id}`)
+        svg(class="delete-button" viewBox='0 0 24 24' onClick="removePreview(this)")
+          polygon(points='17.8,16.7 16.6,17.9 12,13.3 7.4,17.9 6.2,16.7 10.8,12.1 6.2,7.5 7.4,6.3 12,11 16.6,6.4 17.8,7.6 13.2,12.2')
+        a(href=`${val.url}`, target='_blank')
+          img(class="preview-image" src=`${val.img}` alt='preview image')
+          .preview-info
+            h5(class="preview-title")= `${val.title}`
+            p(class="preview-description")= `${val.description}`
+            span(class="preview-url")= `${val.domain}`

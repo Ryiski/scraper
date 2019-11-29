@@ -1,0 +1,695 @@
+[
+  {
+    "id": "776a0756-7e65-47e1-b6d4-eb8652c6e178",
+    "url": "https://dev.to/ard/docker-explained-visually-for-the-non-technical-419g",
+    "domain": "dev.to",
+    "title": "Docker explained visually for the non-technical",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--nmUx23W4--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--Nx9uV17Z--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://thepracticaldev.s3.amazonaws.com/i/fc3anef7pgj5omofhvki.png",
+    "description": "ITeach Recruiters Blog (2 Part Series)Docker has been out for a while now and is being used widely. I think an understanding of how to use Docker is starting to become as necessary a skill as version control (i.e...",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "8f77a160-3a69-4e6e-83f7-5c50c3759e71",
+    "url": "https://dev.to/siddiqus/quest-for-a-practical-nodejs-api-framework-5a82",
+    "domain": "dev.to",
+    "title": "Quest for a practical NodeJS API Framework",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--5x-tLuZ1--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--5oEnhlOm--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://thepracticaldev.s3.amazonaws.com/i/881f55ajahrbodsw5r2z.jpg",
+    "description": "While working on REST APIs with Express JS / Node, I came across some common challenges:Working with Express for the last 3 years, I started thinking about how to use ES6 classes and OOP to implement REST control...",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "c59c4093-ce75-4434-a448-09f665c243bb",
+    "url": "https://dev.to/jonisar/reuse-react-components-between-apps-like-a-pro-2a39",
+    "domain": "dev.to",
+    "title": "Reuse React Components Between Apps Like a Pro",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--Hj3nTyer--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/j4dwog1nrng8yutpz0ur.jpg",
+    "description": "\n\n...",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "9900371e-a553-440b-89a7-fa7851e9c495",
+    "url": "https://dev.to/addyosmani/adaptive-loading-improving-web-performance-on-low-end-devices-1m69",
+    "domain": "dev.to",
+    "title": "Adaptive Loading - Improving Web Performance on low-end devices",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--kkwb8J9L--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/k4d718bv7a9p1bnp6daq.png",
+    "description": "Adaptive Loading is a pattern for delivering a fast core experience to all users (including low-end devices) where you progressively add high-end-only features, if a user's network and hardware can handle it",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "9fd01b0a-f0bc-48e8-97b9-c95bd6888122",
+    "url": "https://dev.to/juancarlospaco/faster-than-requests-with-multithread-web-scrapper-4lpi",
+    "domain": "dev.to",
+    "title": "Faster Than Requests with MultiThread Web Scraper",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--6JtiXR4G--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/h1lwwbwl1h4vul7si8h0.jpg",
+    "description": "Faster Than Requests v0.9 with Multi-Thread Web Scraper Built-in",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "a683346c-5c9e-4d82-8164-c99334287128",
+    "url": "https://dev.to/bunlong/react-component-lifecycle-hooks-cheatsheet-1p6",
+    "domain": "dev.to",
+    "title": "React Component Lifecycle Hooks Cheatsheet 📄",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--tdykUIez--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--QuzNMeMc--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://thepracticaldev.s3.amazonaws.com/i/mkgifvtjvz8vfce1ghtg.png",
+    "description": "useState, useEffect, useRef and memo are the hooks and the higher order component that allow you to replace React class component lifecycle methods.Live demo is available on CodePen.According to the React docs, g...",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "754054ae-5262-4af6-a609-2d75e0cc3cac",
+    "url": "https://dev.to/thesoreon/top-5-amazing-tools-for-every-web-developer-2mdn",
+    "domain": "dev.to",
+    "title": "Top 5 amazing tools for every web developer",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--H5b7JH6U--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/3sld64hqw75hx38418z7.png",
+    "description": "Top five tools for all web developers to increase their productivity and product quality!",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "3747d133-ee26-4607-9645-c6ed782028d9",
+    "url": "https://levelup.gitconnected.com/console-cheat-sheet-for-javascript-developers-21f0c49604d4",
+    "domain": "levelup.gitconnected.com",
+    "title": "Console cheat sheet for JavaScript developers",
+    "img": "https://miro.medium.com/max/1200/1*AXpdlQHYUqs29mib0AfC8g.jpeg",
+    "description": "Learn how to use the browser console effectively for debugging"
+  },
+  {
+    "id": "86d70db1-a262-4354-884b-c70f943045f1",
+    "url": "https://www.freecodecamp.org/news/cronjob-ransomware-attack/",
+    "domain": "www.freecodecamp.org",
+    "title": "How a simple cron job can save you from a ransomware attack",
+    "img": "https://www.freecodecamp.org/news/content/images/2019/11/cover-3.jpg",
+    "description": "It’s 2019, and ransomware has become a thing.\n\nSystems that interact with the public, like companies, educational institutions,\nand public services, are most susceptible. While delivery methods for ransomware\nvar...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "f20d24c7-7a60-480a-a433-d0293ea54f9a",
+    "url": "https://dev.to/educative/behind-the-screens-what-happens-when-you-type-a-url-in-a-browser-161d",
+    "domain": "dev.to",
+    "title": "Behind the Screens: What happens when you type a URL in a browser",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--2swijhxD--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--xZ9zolDa--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://thepracticaldev.s3.amazonaws.com/i/uv341es0n2nzot39hbk8.png",
+    "description": "Originally posted on Educative.io by Ayesha AlviAccording to Statista, more than half of the world’s population consists of active Internet users. We rely on the internet for just about everything: checking email...",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "b5af346c-c30e-464b-a12f-3d20a99b5036",
+    "url": "https://dev.to/d__raptis/css-absolute-center-element-k5a",
+    "domain": "dev.to",
+    "title": "CSS: Absolute center element",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--MVXevCwa--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://cdn-images-1.medium.com/max/5500/0%2AzkFRAXH_pj6ELkuB",
+    "description": "Trick to center an element inside its parent",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "81cd157a-9f59-44b5-8906-3c308a2b2776",
+    "url": "https://dev.to/sksaifuddin/what-s-the-score-of-your-functions-1h2k",
+    "domain": "dev.to",
+    "title": "What's the score of your functions?",
+    "img": "https://dev.to/social_previews/article/206324.png",
+    "description": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin FowlerFunctions are the basic building blocks of any programming language, but is your func...",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "c2589641-7c79-4de7-a4b3-25b97c6c95e7",
+    "url": "https://www.freecodecamp.org/news/7-cases-when-not-to-use-docker/",
+    "domain": "www.freecodecamp.org",
+    "title": "7 Cases When You Should Not Use Docker",
+    "img": "https://www.freecodecamp.org/news/content/images/2019/11/Docker-1.png",
+    "description": "There are many good things about Docker. It packs, ships, and runs applications as a lightweight, portable, and self-sufficient containerization tool. Docker is great for businesses of all sizes.",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "9807deb4-d13e-4e4b-928c-267f568b4407",
+    "url": "https://dev.to/samanthaming/javascript-module-cheatsheet-5b4o",
+    "domain": "dev.to",
+    "title": "JavaScript Module Cheatsheet 📄‬",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--mk9oNurt--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--q3EaFmhW--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://thepracticaldev.s3.amazonaws.com/i/mdeydqub61b1ktueoh0h.png",
+    "description": "Here's a cheat sheet to show you the different ways of exporting and the corresponding way to import it. It really distills to 3 types: name, default, and list. Just make sure your export matches your import way ...",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "44d3b36d-07eb-40c7-9a60-a1ad2138bf24",
+    "url": "https://dev.to/saurabhdaware/i-rebuilt-my-portfolio-now-it-has-100-lighthouse-score-here-s-how-i-did-477a",
+    "domain": "dev.to",
+    "title": "I rebuilt my portfolio🌻 Now it loads in 1.6s 🎉 Here's how I did ",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z9EdEST---/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--heWaq778--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://thepracticaldev.s3.amazonaws.com/i/mezivpdhshtnc7iyuku3.png",
+    "description": "Note: This article is only intended to explain how I am loading my site. These steps may change as per your use case (Building an E-Commerce website with Vanilla JavaScript is not a great idea)Hi, everyone! So my...",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "897083ab-3922-4018-977c-6c87c85f8f5d",
+    "url": "https://dev.to/pluralsight/a-vs-extension-that-will-make-you-a-better-developer-2mf0",
+    "domain": "dev.to",
+    "title": "A VS Code Extension That Will Make You a Better Developer",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--HgIvizjV--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/w4az29544agqnn8itf3t.jpg",
+    "description": "It’s a bold claim to say an IDE extension can make you a better developer, but you should install this new Pluralsight extension and see for yourself.",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "e5c3aa64-0f1d-414b-bfd6-e4ed0c5a2990",
+    "url": "https://www.freecodecamp.org/news/the-definitive-node-js-handbook-6912378afc6e/",
+    "domain": "www.freecodecamp.org",
+    "title": "The definitive Node.js handbook",
+    "img": "https://cdn-media-1.freecodecamp.org/images/1*7F50Qc-ysFgy6tCjUyruTA.jpeg",
+    "description": "Note: you can get a PDF, ePub, or Mobi\n[https://flaviocopes.com/page/node-handbook/] version of this handbook for\neasier reference, or for reading on your Kindle or tablet.\n\nIntroduction to Node.js\nThis handbook ...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "9e3ac28b-9a4c-48cc-8168-a11794b972b4",
+    "url": "https://medium.com/@shivamethical/creating-web-page-preview-while-sharing-url-via-social-applications-like-whats-app-fb-cd2e19b11bf2",
+    "domain": "medium.com",
+    "title": "Creating Web Page Preview while sharing url via social applications — like whats app, fb ..",
+    "img": "https://miro.medium.com/max/480/1*wtRjEeWa0QkwQ85YW9zTwg.png",
+    "description": "You have seen many times when share link of YouTube via whats app or any other application so it shows preview for particular website like…"
+  },
+  {
+    "id": "72436d37-5292-4278-b4da-2f85f0b00744",
+    "url": "https://medium.com/swlh/in-less-than-10-minutes-a-day-these-46-intellectually-stimulating-sites-will-spark-your-inner-d96ee6fc8387",
+    "domain": "medium.com",
+    "title": "46 Most Intellectually Stimulating Sites That Will Spark Your Inner Genius in 10 Minutes a Day",
+    "img": "https://miro.medium.com/max/1200/1*_eUqC2Qca0wrmHwwL0Yq4A.jpeg",
+    "description": "Curiosity has a lot to do with getting smarter."
+  },
+  {
+    "id": "1c8c01e8-fede-45a0-b051-7bffc3d68140",
+    "url": "https://dev.to/g33konaut/understanding-cors-aaf",
+    "domain": "dev.to",
+    "title": "Understanding CORS",
+    "img": "https://dev.to/social_previews/article/204258.png",
+    "description": "Cross origin resource sharing (CORS) is a browser security mechanism. We will discuss how CORS works, what it's for and how to work with it when accessing resources across origins.",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "0d9ffc3f-c96b-4062-b014-ebaadcce6085",
+    "url": "https://dev.to/swissdevjobs/how-we-improved-website-performance-by-24-with-3-unusual-changes-9ei",
+    "domain": "dev.to",
+    "title": "How we improved website performance by 24% with 3 unusual changes",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--PECe-YPp--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--fQROdzOp--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://thepracticaldev.s3.amazonaws.com/i/8in4yxdfd1xynadzewzv.png",
+    "description": "It is a job board for Software Developers who are looking for work opportunities in Switzerland. Performance of SwissDevJobs.ch matters for 2 reasons:: Good user experience - which means both time to load (becomi...",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "a80a1534-0fcf-4058-883b-46987d42a24d",
+    "url": "https://dev.to/sofiajonsson/intro-to-progressive-web-apps-pwa-g46",
+    "domain": "dev.to",
+    "title": "Intro to Progressive Web Apps (PWA)",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--n-u7Vd9C--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/fk4f8xe2nnob92f7po4q.png",
+    "description": "This last week I encountered a job application that asked me for my favorite trend in technology. Naturally, I went and googled top tech trends in 2019 and came across a pretty interesting list. What really caugh...",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "06778f19-48f8-454a-8fed-1b4d223849b3",
+    "url": "https://www.freecodecamp.org/news/how-to-interview-your-interviewers-when-youre-looking-for-a-job-d848bc3a910/",
+    "domain": "www.freecodecamp.org",
+    "title": "How to interview your interviewers when you’re looking for a job",
+    "img": "https://cdn-media-1.freecodecamp.org/images/1*z-UEcuIZeHB_isrPIu-tzA.jpeg",
+    "description": "Twelve questions to ask at tech interviews\nI’ve just come off six weeks’ of interviewing for medior software developer\nroles, in a market that is desperate for talent (Amsterdam). That means I went\non a lot  of i...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "a065de22-e128-482a-bf8e-4ca86c25c700",
+    "url": "https://www.freecodecamp.org/news/what-exactly-is-a-programming-paradigm/",
+    "domain": "www.freecodecamp.org",
+    "title": "What exactly is a programming paradigm?",
+    "img": "https://www.freecodecamp.org/news/content/images/2019/11/Add-a-subheading--1-.png",
+    "description": "> Any fool can write code that a computer can understand. Good programmers write\ncode that humans can understand.\n― Martin Fowler\nWhen programming, complexity is always the enemy. Programs with great\ncomplexity, ...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "1387bd68-ebfc-42a1-9a5f-0334b4dda0c0",
+    "url": "https://www.freecodecamp.org/news/how-to-write-a-good-software-design-document-66fcf019569c/",
+    "domain": "www.freecodecamp.org",
+    "title": "How to write a good software design doc",
+    "img": "https://cdn-media-1.freecodecamp.org/images/1*vy3gDPKB1kyhzIqI8DNUvQ.png",
+    "description": "by Angela Zhang\n\nHow to write a good software design doc\nPhoto by Estée Janssens\n[https://unsplash.com/photos/A65Gqv38pYo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText] \n on Unsplash\n[https:/...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "10ec2d34-6703-4c83-a509-24c6ff603354",
+    "url": "https://dev.to/harri_etty/the-introduction-to-servers-i-wish-i-d-had-44jl",
+    "domain": "dev.to",
+    "title": "The introduction to servers I wish I'd had",
+    "img": "https://dev.to/social_previews/article/202719.png",
+    "description": "In this post, I explain and demonstrate what a server is, and show you how to get and connect to a server, and host a simple web page on a server!",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "43086a48-e479-4eb8-9476-b263a60339f4",
+    "url": "https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58",
+    "domain": "medium.com",
+    "title": "Single-page application vs. multiple-page application",
+    "img": "https://miro.medium.com/max/560/1*lFVg0xp4FNsptSJYfImTQg.png",
+    "description": "Web applications are unwittingly replacing the old desktop applications. They are more convenient to use, they are easy to update, and they…"
+  },
+  {
+    "id": "4f32b91a-5b54-4487-8939-644190bc8c8f",
+    "url": "https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f/",
+    "domain": "www.freecodecamp.org",
+    "title": "A beginner’s guide to Docker — how to create your first Docker application",
+    "img": "https://cdn-media-1.freecodecamp.org/images/1*5ErAAkV5REH3bE6-xAzzFg.png",
+    "description": "You are a developer and you want to start with Docker? This article is made for\nyou.\nAfter a short introduction on what Docker is and why to use it, you will be able\nto create your first application with Docker.\n...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "de0254d7-6382-4b88-adbf-1174a89051c6",
+    "url": "https://www.freecodecamp.org/news/the-tools-and-resources-that-landed-me-a-front-end-developer-job-1314c6f1fa7f/",
+    "domain": "www.freecodecamp.org",
+    "title": "The tools and resources that landed me a front-end developer job",
+    "img": "https://cdn-media-1.freecodecamp.org/images/1*rJ4vcEvOjO5k07-TpGrOyA.jpeg",
+    "description": "Learning front-end development can be a bit overwhelming at times. There are so\nmany resources and tools, and so little time. What should you pick? And what\nshould you focus on?\n\nIn my previous article How I swit...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "1d27bbe3-232b-49db-8ff2-c107163b933b",
+    "url": "https://dev.to/stecman/hacking-on-pages-in-the-browser-3l0e",
+    "domain": "dev.to",
+    "title": "Hacking on pages in the browser",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--uU1Y936L--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--dM6H9zQ9--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://thepracticaldev.s3.amazonaws.com/i/3c0lnbp59o8y7ms5u7xl.jpg",
+    "description": "I've been pulling things apart to find out how they work since I was a kid. Deconstructing a photocopier with a crowbar was a decidedly one-way process, but revealed so many interesting gears, motors and mechanis...",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "5a36a772-6182-4fca-b54d-bc054a31ab72",
+    "url": "https://www.freecodecamp.org/news/writing-a-killer-software-engineering-resume-b11c91ef699d/",
+    "domain": "www.freecodecamp.org",
+    "title": "How to write a killer Software Engineering résumé",
+    "img": "https://cdn-media-1.freecodecamp.org/images/1*0yse40ucjmpdlaBqlY0fTg.png",
+    "description": "An in-depth analysis of the résumé that got me interviews at Google, Facebook,\nAmazon, Microsoft, Apple, and more.\nThis résumé got me interviews at Google, Facebook, Amazon, Microsoft, and Apple.\n\n2017 Senior Yea...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "d6556996-0b6d-4ac6-a818-a789df052e7e",
+    "url": "https://www.freecodecamp.org/news/here-are-some-app-ideas-you-can-build-to-level-up-your-coding-skills-39618291f672/",
+    "domain": "www.freecodecamp.org",
+    "title": "Here are some app ideas you can build to level up your coding skills",
+    "img": "https://cdn-media-1.freecodecamp.org/images/0*v3qXmKe1LTiiW_3H.png",
+    "description": "Have you ever wanted to build something but you had no idea what to do? Just as\nauthors sometimes have “writer's block” it’s also true for developers.\n\nTogether with my friend Jim [https://twitter.com/jd_medlock]...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "120180fe-a045-4e9e-be99-3db5bc613104",
+    "url": "https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/",
+    "domain": "www.freecodecamp.org",
+    "title": "The Complete JavaScript Handbook",
+    "img": "https://cdn-media-1.freecodecamp.org/images/1*2YiRWfZk40lOe81wcyEVjA.png",
+    "description": "JavaScript is one of the most popular programming languages in the world, and is\nnow widely used also outside of the browser. The rise of Node.js in the last few\nyears unlocked back-end development - once the dom...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "1dc20843-43eb-4488-9c2c-eb4c38b46499",
+    "url": "https://www.freecodecamp.org/news/how-to-land-a-pm-job-without-pm-experience/",
+    "domain": "www.freecodecamp.org",
+    "title": "How to land a PM job without PM experience",
+    "img": "https://www.freecodecamp.org/news/content/images/2019/11/Best-Companies-for-Leaders-compressor-1.jpg",
+    "description": "Recently, Product Management (PM) jobs have become one of the most popular\ncareer options for graduates from top MBA schools, following consulting and\nfinance. At the heart of Silicon Valley, the question I get a...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "fee976c4-4c9a-403f-8fba-d27aaf96df5c",
+    "url": "https://www.freecodecamp.org/news/10-js-util-functions-in-reduce/",
+    "domain": "www.freecodecamp.org",
+    "title": "10 JavaScript Utility Functions Made with Reduce",
+    "img": "https://www.freecodecamp.org/news/content/images/2019/10/10-js-utility-functions-using-reduce-1.png",
+    "description": "The multi-tool strikes again.",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "be909e15-ce3f-41a5-82ae-24c6128f4b59",
+    "url": "https://dev.to/bnevilleoneill/take-your-node-back-end-to-the-next-level-with-nestjs-2fj7",
+    "domain": "dev.to",
+    "title": "Take your Node back end to the next level with NestJS",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--v4-yCWs7--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/924d5wii09q1omc4elbm.jpeg",
+    "description": "NestJS is a back-end framework for creating scalable applications. It works as an...",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "d98dfd66-2bcb-4c69-92aa-2711ab9a37b1",
+    "url": "https://dev.to/deciduously/validate-a-credit-card-number-with-functional-javascript-54oe",
+    "domain": "dev.to",
+    "title": "Validate a Credit Card Number with Functional JavaScript",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--4Ld1rTR---/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--9GzgvYXH--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://thepracticaldev.s3.amazonaws.com/i/do9pmhc297wl6x8pjlt0.jpg",
+    "description": "Credit card companies are responsible for a high volume of highly sensitive global network traffic per minute with no margin for error. These companies need to ensure they are not wasting resources processing unn...",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "84d7a539-31fe-425c-a24a-9d4bb087bc2d",
+    "url": "https://dev.to/fullstackcafe/39-advanced-react-interview-questions-you-must-clarify-today-3c1h",
+    "domain": "dev.to",
+    "title": "39 Advanced React Interview Questions You Must Clarify Today",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--oJnWvpfv--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://images.pexels.com/photos/1569002/pexels-photo-1569002.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26w%3D500",
+    "description": "39 Advanced React Interview Questions You Must Clarify Today",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "09f176fa-b0bb-42d3-b484-cc4239bf888a",
+    "url": "https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/",
+    "domain": "www.freecodecamp.org",
+    "title": "How to keep your footer where it belongs ?",
+    "img": "https://cdn-media-1.freecodecamp.org/images/1*gUfDwoSlbdxjXv10Pxnxtw.png",
+    "description": "A footer is the last element on the page. At a minimum it is at the bottom of\nthe viewport, or lower if the page content is taller than the viewport. Simple,\nright? ?\n\nWhen working with dynamic content that inclu...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "ea47fa4e-4d0e-423b-96db-f7d86066de34",
+    "url": "https://dev.to/scahhht/the-five-most-common-bugs-you-should-be-writing-tests-for-11p2",
+    "domain": "dev.to",
+    "title": "The Five Most Common Bugs you Should be Writing Tests for",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--bdA-nEwg--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--5oIgbJG5--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://thepracticaldev.s3.amazonaws.com/i/ic1k64428cu75b2fnhyh.png",
+    "description": "Users have higher expectations than ever before. At the same time, the customer experience is increasingly the top priority because of its far-reaching implications with respect to customer activation and retenti...",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "92e62cba-50aa-4263-a2e8-cae91566f691",
+    "url": "https://dev.to/canderson93/practise-javascript-by-breaking-things-down-29gf",
+    "domain": "dev.to",
+    "title": "Practice JavaScript by Breaking Things Down",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--DdWxCkUk--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://images.unsplash.com/27/type-set.jpg%3Fixlib%3Drb-1.2.1%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjExNzczfQ",
+    "description": "\n\nThe most important skill you can have as a developer is knowing how to break ta...",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "ef68a134-3b52-4e2e-8ebf-46da533e04b4",
+    "url": "https://www.freecodecamp.org/news/how-to-center-things-with-style-in-css-dc87b7542689/",
+    "domain": "www.freecodecamp.org",
+    "title": "How to center things with style in CSS",
+    "img": "https://cdn-media-1.freecodecamp.org/images/1*_kOjjFFIGq-G8x1YhdzKWg.jpeg",
+    "description": "by Stephen Sun\n\nHow to center things with style in CSS\nIf you’re just starting your coding journey, and I’m lucky enough to capture\nyour attention for a few minutes…bookmark this post now!\n\nLet’s be honest.\n\nSome...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "f2ccd4f6-6d68-4b98-ad81-862a918d1d6d",
+    "url": "https://www.freecodecamp.org/news/how-to-turn-your-website-into-a-mobile-app-with-7-lines-of-json-631c9c9895f5/",
+    "domain": "www.freecodecamp.org",
+    "title": "How to Turn Your Website into a Mobile App with 7 Lines of JSON",
+    "img": "https://cdn-media-1.freecodecamp.org/images/1*x-5_XGJJhAgiBmLe54I3xg.png",
+    "description": "by Ethan\n\nHow to Turn Your Website into a Mobile App with 7 Lines of JSON\nA New Approach for Blending Web Engine into Native Apps\nWhat if I told you the 7 lines of JSON above, colored in orange is all you need\nto...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "1a4fb85c-fe1a-45e8-8159-0701f53d9ad0",
+    "url": "https://dev.to/jcs224/how-to-actually-make-your-life-easier-with-docker-hjo",
+    "domain": "dev.to",
+    "title": "How to actually make your life easier with Docker",
+    "img": "https://dev.to/social_previews/article/198924.png",
+    "description": "Docker can make our life as developers easier, but you have to avoid certain pitfalls to make the most of it.",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "a9c4607d-3144-4c1d-bb05-1351c3c585ca",
+    "url": "https://www.freecodecamp.org/news/demystifying-reacts-server-side-render-de335d408fe4/",
+    "domain": "www.freecodecamp.org",
+    "title": "Demystifying server-side rendering in React",
+    "img": "https://cdn-media-1.freecodecamp.org/images/1*Ecd_MVlJQoZ3bNn-xclFiA.jpeg",
+    "description": "Let’s have a closer look at the feature that allows you to build universal  \napplications  with React.\n\nServer-Side Rendering — SSR from here on — is the ability of a front-end\nframework  to render markup while r...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "2978f83b-b760-42c1-9dcf-102b57687867",
+    "url": "https://www.freecodecamp.org/news/progressive-web-apps-101-the-what-why-and-how-4aa5e9065ac2/",
+    "domain": "www.freecodecamp.org",
+    "title": "Progressive Web Apps 101: the What, Why and How",
+    "img": "https://cdn-media-1.freecodecamp.org/images/1*2tyNWs0uYC0q-gwyWj8BTw.jpeg",
+    "description": "What is a Progressive Web App? Why do we need one? How can we build one?\nHave you ever seen an “Add to Home Screen” banner, like above, while browsing a\nwebsite? When you click the button, the “application” insta...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "44a462a6-893d-4def-9e57-2b82c49a30cf",
+    "url": "https://dev.to/a_sandrina_p/react-context-cheatsheet-18n4",
+    "domain": "dev.to",
+    "title": "React Context cheatsheet",
+    "img": "https://dev.to/social_previews/article/196875.png",
+    "description": "The React Context API is one of the hottest features in React 16. However, it is one of those features where I see more developers struggling with, especially when consuming the context.Since its release I’ve bee...",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "4bc7b73b-89c2-4540-880e-4b12a52dd9de",
+    "url": "https://dev.to/gladchinda/5-simple-applications-of-javascript-bitwise-operators-hd6",
+    "domain": "dev.to",
+    "title": "5 Simple Applications of JavaScript Bitwise Operators",
+    "img": "https://dev.to/social_previews/article/196566.png",
+    "description": "I wrote a more detailed article on bitwise operators published on the LogRocket blog. Check it out here: Interesting use cases for JavaScript bitwise operators.Although bitwise operators are sparingly used in Jav...",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "c4069d3b-e3c0-491c-b4dd-fb8e9df659a4",
+    "url": "https://www.freecodecamp.org/news/easily-spin-up-a-mapping-app-in-react-with-leaflet/",
+    "domain": "www.freecodecamp.org",
+    "title": "How to build a mapping app in React the easy way with Leaflet",
+    "img": "https://www.freecodecamp.org/news/content/images/2019/10/mapping-with-leaflet.jpg",
+    "description": "Mapping is hard, but spinning up a new app that renders maps doesn’t have to be. Here’s how you can easily get started working with maps in a new React app.",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "f3409b67-cbde-461a-b508-fa10f0eb8954",
+    "url": "https://www.freecodecamp.org/news/before-you-can-master-design-you-must-first-master-the-fundamentals-1981a2af1fda/",
+    "domain": "www.freecodecamp.org",
+    "title": "Before you can master design, you must first master the fundamentals",
+    "img": "https://cdn-media-1.freecodecamp.org/images/1*CL91MC3Ou2BnxeMzDBZ4uQ.png",
+    "description": "Last week, one of my readers sent in a question: How do I become a better visual\ndesigner?\n\nAs I was thinking about how to answer this question, my mind wandered to my\nexperience with learning Mandarin Chinese. R...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "916a2f11-c564-42c8-8085-9e2f7ecfeb66",
+    "url": "https://dev.to/duomly/18-websites-where-you-can-find-a-remote-job-3a91",
+    "domain": "dev.to",
+    "title": "18 websites, where you can find a remote job",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--S9efwbSZ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--rs0cumfI--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://thepracticaldev.s3.amazonaws.com/i/oe576g3bbmxa7pdm42aa.png",
+    "description": "If you are a mum, who needs lots of flexibility in work to take care of kids, or digital nomad who travels a lot and need a job which can be done from different places in the world, or maybe your health issues do...",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "e94b8e28-2e21-4d5a-88dc-757ade1dec8e",
+    "url": "https://dev.to/albertomontalesi/what-s-new-in-javascript-optional-chaining-31i4",
+    "domain": "dev.to",
+    "title": "What's new in JavaScript: Optional Chaining",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--w1MxCgv6--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--sqA10a36--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://thepracticaldev.s3.amazonaws.com/i/xty0uw0jatfd5g1ef9ha.png",
+    "description": "Check out my blog for more articles or Github for my free-to-read JavaScript Ebook that covers all the new features from ES6 to 2019 As of the date of writing this article (24th October 2019), Optional Chaining i...",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "087be142-14a2-45dc-a95c-7b06538c3399",
+    "url": "https://www.freecodecamp.org/news/10x-your-productivity-by-creating-a-process/",
+    "domain": "www.freecodecamp.org",
+    "title": "How to 10x Your Productivity by Creating a Process",
+    "img": "https://www.freecodecamp.org/news/content/images/2019/07/vegeta-process-web.png",
+    "description": "Before your next shot of inspiration runs out.",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "d5132ed8-2087-4619-a9f9-47180450fd10",
+    "url": "https://www.freecodecamp.org/news/how-to-layout-and-design-a-website-without-any-design-skills-86d94e40b55a/",
+    "domain": "www.freecodecamp.org",
+    "title": "How to layout and design a website (without any design skills)",
+    "img": "https://cdn-media-1.freecodecamp.org/images/1*Phg_9259Vl8tNHyCh_W3sg.jpeg",
+    "description": "This post was originally published on Coder-Coder.com\n[https://coder-coder.com/layout-design-website/].\n\nIf you’re trying to build freelance websites for clients, or even just trying to\nbuild up your portfolio, y...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "f80885bf-609b-4eb4-b43e-dd785cf6ff63",
+    "url": "https://dev.to/digitalocean/understanding-this-bind-call-and-apply-in-javascript-dla",
+    "domain": "dev.to",
+    "title": "Understanding This, Bind, Call, and Apply in JavaScript",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--duaP0Hdl--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://p78.f0.n0.cdn.getcloudapp.com/items/5zu5YBmD/Image%2B2019-10-24%2Bat%2B12.25.45%2BPM.png%3Fv%3Da2cc3306c327002ac136c1a46e03087d",
+    "description": "The this keyword is a very important concept in JavaScript, and also a particularly confusing one.",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "2fa05bb8-5e47-43a2-9d0e-d73a3fd6f42c",
+    "url": "https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/",
+    "domain": "www.freecodecamp.org",
+    "title": "The CSS Handbook: a handy guide to CSS for developers",
+    "img": "https://cdn-media-1.freecodecamp.org/images/1*aeXtrs9UI4WniMd1miDIDw.png",
+    "description": "I wrote this article to help you quickly learn CSS and get familiar with the\nadvanced CSS topics.\n\nCSS is often quickly dismissed as an easy thing to learn by developers, or one\nthing you just pick up when you ne...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "3f800e90-aa57-444f-851e-06460fd13b3c",
+    "url": "https://dev.to/felixhaeberle/3-easy-steps-to-fix-slow-image-loading-5fh6",
+    "domain": "dev.to",
+    "title": "3 easy steps to fix slow image loading",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--SlkZR7P2--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/lfg2obzjfd995y92zoxu.jpg",
+    "description": "Loading images on the web can be a pain, especially if you are doing a website mainly for mobile devices. Here I provide you with 3 easy steps to fix it!  ",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "7c477b9a-6665-4158-aec2-c14dea021af8",
+    "url": "https://dev.to/raysaltrelli/logging-best-practices-obo",
+    "domain": "dev.to",
+    "title": "Logging Best Practices",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--kSlHlp_n--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--pVK4x68t--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://thepracticaldev.s3.amazonaws.com/i/q1jzaixy6ov7mm8r46xi.jpg",
+    "description": "When running an application in a local development environment, the de facto tactic to see what it’s doing is, of course, to attach a debugger.  You can step through the code line by line and inspect every variab...",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "da98fef5-b707-4486-839c-da8f01624bdb",
+    "url": "https://dev.to/scottydocs/how-to-build-a-documentation-culture-2mk7",
+    "domain": "dev.to",
+    "title": "How to build a documentation culture",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--c8t6-dCG--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--Q9Counxr--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://thepracticaldev.s3.amazonaws.com/i/p4lcea7u21ljpz37ndm1.jpeg",
+    "description": "Documentation series (3 Part Series)Some of you probably don’t like writing documentation, most of you might even hate it. Writing docs often seems to be treated like the annoying but necessary task that is left ...",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "e6801361-7d2d-4e88-ae95-efc28b4118e7",
+    "url": "https://medium.com/better-programming/writing-tips-for-programmers-151976874276",
+    "domain": "medium.com",
+    "title": "Writing Tips for Programmers",
+    "img": "https://miro.medium.com/max/1200/1*n-ZaBXELinhhRZlyF9kT9g.jpeg",
+    "description": "From a Better Programming copy editor"
+  },
+  {
+    "id": "a7884230-909c-48f1-9548-8ebd9c2c2b8c",
+    "url": "https://dev.to/amberjones/how-to-escape-callback-hell-with-javascipt-promises-42d0",
+    "domain": "dev.to",
+    "title": "How to Escape Callback Hell with JavaScipt Promises",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--eMleWBnG--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--dMl7wXkh--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://thepracticaldev.s3.amazonaws.com/i/05562zuk4w94dbp0rfgz.jpg",
+    "description": "What's callback hell and what the hell are Promises??  To dive into those questions requires some basic understanding of the Javascript callstack, so I'll go into brief detail about that first and then navigate y...",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "d43fbcc4-1ed4-47f0-a45c-0aeb16be72eb",
+    "url": "https://www.freecodecamp.org/news/http-and-everything-you-need-to-know-about-it/",
+    "domain": "www.freecodecamp.org",
+    "title": "An introduction to HTTP: everything you need to know",
+    "img": "https://www.freecodecamp.org/news/content/images/2019/08/slik.jpeg",
+    "description": "In this article, I will walk you through how the world wide web works at a\nfundamental level.\n\nThe core technology is HTTP - Hypertext Transfer Protocol. It's the\ncommunication protocol you use when you browse th...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "f58e3fb7-dfcd-4e94-bad2-52b8d9fb56f2",
+    "url": "https://www.freecodecamp.org/news/tips-to-enhance-the-performance-of-your-react-app/",
+    "domain": "www.freecodecamp.org",
+    "title": "Here's the tips to enhance the performance of your React application",
+    "img": "https://www.freecodecamp.org/news/content/images/2019/08/react.jpg",
+    "description": "ReactJS is an open-source framework that facilitates the development of UI\ninterfaces for web and mobile applications. Developers globally use the\nframework to build state-of-the-art applications which subsequent...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "4fb116f4-d271-4bd9-a972-bb8f69033e2a",
+    "url": "https://www.freecodecamp.org/news/securing-your-linux-web-server/",
+    "domain": "www.freecodecamp.org",
+    "title": "How to secure your Linux web server",
+    "img": "https://www.freecodecamp.org/news/content/images/2019/08/computer-network-1419136_1280.png",
+    "description": "Building a LAMP server and getting it all nicely configured with reliable data\nhandling, a domain, and a TLS certificate is only half the battle. You’ll also\nneed to make sure your infrastructure is protected fro...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "719455a1-04c7-4261-812d-44ecc578915d",
+    "url": "https://dev.to/leewarrickjr/what-are-debounce-and-throttle-functions-and-how-do-you-write-them-in-javascript-and-react-15p5",
+    "domain": "dev.to",
+    "title": "What are debounce and throttle functions, and how do you write them in JavaScript and React?",
+    "img": "https://dev.to/social_previews/article/190751.png",
+    "description": "\n\nHave you ever heard the story of the QWERTY layout on a keyboard? The popular l...",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "6309c45c-3323-437f-856a-b9d6c2f63a4a",
+    "url": "https://dev.to/shadowwarior5/10-superpowers-that-html5-gives-you-and-you-are-not-using-4ph1",
+    "domain": "dev.to",
+    "title": "10 superpowers HTML5 gives you (and you are not using)",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--GmUzN0-J--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--n4A4tkMY--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://thepracticaldev.s3.amazonaws.com/i/5hi6xqebfd5yxl4aajr3.jpeg",
+    "description": "The latest HTML spec has a big number of new features and the plans for future additions are constantly growing.I have a feeling that the lack of awareness and cross-browser support are causing developers to be l...",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "d447e6c4-2cc2-4226-bdcc-f84bf902cfb5",
+    "url": "https://dev.to/eddieaich/5-javascript-functions-to-add-to-your-utilities-library-l6j",
+    "domain": "dev.to",
+    "title": "5 JavaScript functions to add to your utilities library",
+    "img": "https://dev.to/social_previews/article/187472.png",
+    "description": "We all have our own utilities - dealing with date/time, validating common forms, etc, or maybe you use a third-party utility library like lodash or underscore. Either way, below is a collection of useful JavaScri...",
+    "favicon": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"
+  },
+  {
+    "id": "5dfe640c-e779-4ae3-a2f5-59434f5cbdd5",
+    "url": "https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/#composition",
+    "domain": "www.freecodecamp.org",
+    "title": "The React Handbook",
+    "img": "https://cdn-media-1.freecodecamp.org/images/1*m5aPLXkrWJs7xKsfYViJEg.png",
+    "description": "The React Handbook follows the 80/20 rule: learn in 20% of the time the 80% of a\ntopic.\n\nI find this approach gives a well-rounded overview. This book does not try to\ncover everything under the sun related to Rea...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "1147df0c-865b-419d-a76b-f4b67cbac0b1",
+    "url": "https://tech.travelaudience.com/how-to-test-asynchronous-data-fetching-on-a-react-component-ff2ee7433d71",
+    "domain": "tech.travelaudience.com",
+    "title": "How to test asynchronous data fetching on a React component",
+    "img": "https://miro.medium.com/max/1200/1*67yx2NlYj7zMyT-WILujIA.jpeg",
+    "description": "The following article is a direct result of the code review process that we run internally in our team at travel audience. I was…"
+  },
+  {
+    "id": "b6140096-d2fb-4a3c-a9f7-4a4d7f28fcf4",
+    "url": "https://www.freecodecamp.org/news/550-free-online-programming-computer-science-courses-you-can-start-this-october/",
+    "domain": "www.freecodecamp.org",
+    "title": "550+ Free Online Programming & Computer Science Courses You Can Start This October",
+    "img": "https://www.freecodecamp.org/news/content/images/2019/10/1_MLyNd9et367llWpgMzsTIg.png",
+    "description": "Seven years ago, universities like MIT and Stanford first opened up free online\ncourses to the public. Today, close to 1000 schools\n[https://www.classcentral.com/universities] around the world have created\nthousa...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "05ac7ccd-d61f-4063-afbc-a3f21aeca582",
+    "url": "https://www.freecodecamp.org/news/full-penetration-testing-course/",
+    "domain": "www.freecodecamp.org",
+    "title": "Become an ethical hacker with this free 15-hour penetration testing course",
+    "img": "https://www.freecodecamp.org/news/content/images/2019/07/pentesting.png",
+    "description": "Learn network penetration testing in this full video course from The Cyber\nMentor. This course teaches everything you need to know to get started with\nethical hacking and penetration testing. You will learn the p...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "6d62c39a-98ab-40d6-bc43-ec004671e1ee",
+    "url": "https://www.freecodecamp.org/news/master-responsive-website-design/",
+    "domain": "www.freecodecamp.org",
+    "title": "Master responsive website design with this free four-hour course",
+    "img": "https://www.freecodecamp.org/news/content/images/2019/09/responsive.png",
+    "description": "This video tutorial from Kevin Powell teaches you to build responsive websites\nfrom scratch. \n\nThe course starts with explaining the core concepts needed to start thinking\nresponsively, and then it takes you thro...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "dc7b8ca0-23c4-4ef6-ab3f-3151e1061194",
+    "url": "https://www.freecodecamp.org/news/how-to-get-https-working-on-your-local-development-environment-in-5-minutes-7af615770eec/",
+    "domain": "www.freecodecamp.org",
+    "title": "How to get HTTPS working on your local development environment in 5 minutes",
+    "img": "https://images.unsplash.com/photo-1526498460520-4c246339dccb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+    "description": "by Daksh Shah\n\nHow to get HTTPS working on your local development environment in 5 minutes\nAlmost any website you visit today is protected by HTTPS. If yours isn’t yet, \nit\nshould be\n[https://developers.google.co...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "b3f2bc25-82b2-4605-9a3f-21b29de94723",
+    "url": "https://www.freecodecamp.org/news/javascript-example/",
+    "domain": "www.freecodecamp.org",
+    "title": "The Best JavaScript Examples",
+    "img": "https://images.unsplash.com/photo-1550063873-ab792950096b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+    "description": "JavaScript is the most widely used scripting language on earth. Here are some\nexamples of key syntax patterns in JavaScript.\n\nArgument Example\nThe arguments object is an array-like object  (in that the structure ...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "b2a56ac4-4dfe-4b83-9bfe-58b660faff8d",
+    "url": "https://www.freecodecamp.org/news/software-design/",
+    "domain": "www.freecodecamp.org",
+    "title": "How to Learn Software Design and Architecture - a Roadmap",
+    "img": "https://www.freecodecamp.org/news/content/images/2019/09/banner-1.png",
+    "description": "Software Design and Architecture is pretty much its own field of study within the realm of computing, like DevOps or UX Design. Here's a map describing the breadth of software design and architecture, from clean ...",
+    "favicon": "/news/favicon.png"
+  },
+  {
+    "id": "561351f1-30d2-4a9f-b353-edcb2fb39b2e",
+    "url": "https://medium.com/skyshidigital/6-tricks-to-speed-up-and-improve-your-node-js-performance-fadc06d15cbe",
+    "domain": "medium.com",
+    "title": "6 Tips and Techniques to Speed Up and Improve Your Node.js Performance",
+    "img": "https://miro.medium.com/max/1200/1*hv0Rr5-DKpN_bDomhlTj7Q.jpeg",
+    "description": "We all know, in recent years, javascript has become a highly developed programming language. Many developers are getting interested in…"
+  },
+  {
+    "id": "3d08e917-d95a-4109-aebb-6f69ae98945b",
+    "url": "https://codeburst.io/javascript-what-are-tag-functions-97682f29521b",
+    "domain": "codeburst.io",
+    "title": "JavaScript — What are Tag Functions?",
+    "img": "https://miro.medium.com/max/1200/1*qxk2ul5wWgcYLmrHf8RWNw.png",
+    "description": "Learn and Understand How to Use Tag Functions."
+  },
+  {
+    "id": "7be37bd4-a053-4780-a4f6-cf2914590656",
+    "url": "https://softwareontheroad.com/nodejs-scalability-issues/",
+    "domain": "softwareontheroad.com",
+    "title": "3 node.js scalability problems and how to solve them 🚀",
+    "img": "https://softwareontheroad.com/static/77bac28ec1bdebf5b1f7f4f518232c85/b8b6e/node-scalability.jpg",
+    "description": "Serving static assets, not using cluster mode, and poorly designed cron jobs, are the most common mistakes when scaling a node.js server."
+  }
+]
