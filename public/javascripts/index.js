@@ -105,3 +105,7 @@ function uuid(){
 
     return id;
 }
+
+const imgError = (e) => {
+    e.src = '/images/no-image.png';
+}
